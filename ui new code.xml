@@ -1,0 +1,36 @@
+<figma file="new app ui">
+<Page name="Page 1">
+  <Frame name="1">
+    <TextNode>
+      <base>NRGETIC</base>
+      <string page="Page 1" frame="1" nodeid="4:17" transform="1,0,-1957,0,1,-5">NRGETIC</string>
+    </TextNode>
+    <TextNode>
+      <base>Loading</base>
+      <string page="Page 1" frame="1" nodeid="4:20" transform="1,0,-1931,0,1,197">Loading</string>
+    </TextNode>
+  </Frame>
+  <Frame name="2">
+    <TextNode>
+      <base>Create An Account</base>
+      <string page="Page 1" frame="2" nodeid="7:9" transform="1,0,-1661,0,1,-577">Create An Account</string>
+    </TextNode>
+    <TextNode>
+      <base>Org Detalis</base>
+      <string page="Page 1" frame="2" nodeid="7:12" transform="1,0,-1585,0,1,-507">Org Detalis</string>
+    </TextNode>
+    <TextNode>
+      <base>org name</base>
+      <string page="Page 1" frame="2" nodeid="7:15" transform="1,0,-1607,0,1,-446">org name</string>
+    </TextNode>
+    <TextNode>
+      <base>owner name</base>
+      <string page="Page 1" frame="2" nodeid="7:28" transform="1,0,-1607,0,1,-382">owner name</string>
+    </TextNode>
+    <TextNode>
+      <base>discord link</base>
+      <string page="Page 1" frame="2" nodeid="11:2" transform="1,0,-1607,0,1,-317">discord link</string>
+    </TextNode>
+  </Frame>
+</Page>
+</figma>
